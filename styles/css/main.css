@@ -116,7 +116,7 @@ header#main-header ul {
 
 .navbar form i {
   margin-left: -42px;
-  position: fixed;
+  position: absolute;
   margin-top: 14px;
 }
 
